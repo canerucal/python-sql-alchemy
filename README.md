@@ -5,7 +5,7 @@
 ## How to Use
 `create a database in localhost`
 
-`create.sql first will execute first, and later insert.sql will execute`
+`create.sql will execute first, and later insert.sql will execute`
 
 `pip install sqlalchemy`
 
